@@ -39,6 +39,3 @@ Me especializo en crear aplicaciones escalables, funcionales y bien estructurada
 - 📧 ignacioguillermoruiz@gmail.com
 - 📧 [LinkedIn](https://www.linkedin.com/in/ignacio-ruiz-0274a5297/)
 
----
-
-> _"Transformando ideas en código desde la sierra hasta el servidor."_ 🔥
