@@ -1,4 +1,4 @@
-# Ignacio Guillermo Ruiz 👨‍💻
+![Banner](./banner.png)
 
 ¡Hola! Soy Ignacio, un desarrollador **Full Stack** de Córdoba, Argentina.  
 Actualmente estoy cursando el último año de la **Tecnicatura en Programación** en el [Instituto Técnico La Falda](https://latecnicalf.com.ar) 🏫.
